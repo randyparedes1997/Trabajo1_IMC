@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">IMC</string>
+    <string name="tv_peso">Peso</string>
+    <string name="tv_altura">Estatura</string>
+    <string name="tv_ejemplo1">Ejemplo 80</string>
+    <string name="tv_ejemplo2">Ejemplo 1.80</string>
+    <string name="tv_titulo">IMC UPT</string>
+    <string name="btn_calcular">Calcular</string>
+
+
+</resources>

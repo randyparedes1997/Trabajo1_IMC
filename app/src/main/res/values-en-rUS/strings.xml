@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">BMI</string>
+    <string name="btn_calcular">Calculate</string>
+    <string name="tv_peso">Weight</string>
+    <string name="tv_titulo">BMI UPT</string>
+    <string name="tv_altura">Height</string>
+    <string name="tv_ejemplo1">Example 80</string>
+    <string name="tv_ejemplo2">Example 1.80</string>
+</resources>
